@@ -30,4 +30,5 @@ Sep 29 - Oct 6 : all of us will present how our 3 parser algorithms working with
  - also suggest one research question that you think that can improve the performance of the algorithms you have been working with
  - Also make sure that you are writing the report along side, so that we can concatenate them in the end
  
- Oct 14 - finalise report , review and submittion
+ Oct 14 - 20  finalise power point , and presentation techniques
+ Oct 20 -24 Report 
