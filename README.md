@@ -7,7 +7,7 @@ Adding more algorithms to analyse the performance on the 5 dataset mentioned
 - Dataset : https://github.com/logpai/loghub
 1. Moses - SLCT + ?
 2. Aurel - IPLoM + Drain
-3. Bhagya - LKE + ?
+3. Bhagya - LKE + LFA + spell + logmine
 4. Patrick - LogSig + ?
 
 ## Log mining techniques
